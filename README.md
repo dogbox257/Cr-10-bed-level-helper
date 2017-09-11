@@ -8,6 +8,6 @@
   It will move to each corner and zero the z axis on it for 30 seconds. When 10 seconds are left, it will beep to let you know.   Before returning to the home position it moves to the center to verify the leveling there.
 
 ### HOW TO USE IT:
-  1. Choose the script for your printer. 
+  1. Choose the correct gcode script for your printer. 
   2. Upload it to your printers SD card and run the program. 
   3. Wait for the printer to finish homing the Z axis and then level the bed with your prefered method. 
