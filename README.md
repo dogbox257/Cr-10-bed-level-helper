@@ -11,3 +11,6 @@
   1. Choose the correct gcode script for your printer. 
   2. Upload it to your printers SD card and run the program. 
   3. Wait for the printer to finish homing the Z axis and then level the bed with your prefered method. 
+  
+### Recomendations:
+  Lower your bed before you run the script so that you extruder doesnt crash into the bed and damage anything.
